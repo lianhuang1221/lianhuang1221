@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lian Huang</h1>
 
 <p align="center">
-  <a href="https://github.com/lianhuang1221"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+FinTech+Backend;MSc+Computer+Science+%40+Aston+University;AI%2FML+Researcher+%7C+LLM+%2B+TMLC+Pipeline;Open+to+Backend+%26+AI%2FML+Roles" alt="Typing SVG" /></a>
+  <a href="https://github.com/lianhuang1221"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%7C+FinTech+Backend;MSc+Computer+Science+%40+Aston+University;AI%2FML+Researcher+%7C+LLM+%2B+TMLC+Pipeline;Open+to+Backend+%26+AI%2FML+Roles" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
