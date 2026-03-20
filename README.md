@@ -20,6 +20,31 @@ At **NCCC (National Credit Card Center of R.O.C.)**, I built mission-critical Fi
 
 I recently completed my **MSc in Computer Science at Aston University (UK)**, where my dissertation investigated whether Traditional ML Classifiers can augment LLM reasoning under single-GPU constraints. I designed a multi-pipeline experimental framework comparing Llama-3 8B and DeepSeek-V2 7B with LightGBM/XGBoost hybrid architectures.
 
+
+<p align="center">
+  <a href="https://github.com/lianhuang1221"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+FinTech+Backend;MSc+Computer+Science+%40+Aston+University;AI%2FML+Researcher+%7C+LLM+%2B+TMLC+Pipeline;Open+to+Backend+%26+AI%2FML+Roles" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lianhuang1221&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="mailto:lian.huang1221@gmail.com"><img src="https://img.shields.io/badge/Email-lian.huang1221%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lianhuang1221"><img src="https://img.shields.io/badge/LinkedIn-Lian%20Huang-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/lianhuang1221"><img src="https://img.shields.io/badge/GitHub-lianhuang1221-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## About Me
+
+I am a software engineer with 5+ years of experience spanning **large-scale financial backend systems** and **applied AI/ML research**. My work bridges the gap between production-grade software engineering and cutting-edge machine learning.
+
+At **NCCC (National Credit Card Center of R.O.C.)**, I built mission-critical FinTech infrastructure — developing a FIDO authentication system that saved ~NT$10M in operational costs and optimizing transaction throughput for American Express & Discover Financial Services from **TPS 200 → TPS 1,000** (5× improvement).
+
+I recently completed my **MSc in Computer Science at Aston University (UK)**, where my dissertation investigated whether Traditional ML Classifiers can augment LLM reasoning under single-GPU constraints. I designed a multi-pipeline experimental framework comparing Llama-3 8B and DeepSeek-V2 7B with LightGBM/XGBoost hybrid architectures.
+
 Currently open to **Backend Engineer** and **AI/ML Engineer** opportunities.
 
 ---
@@ -94,6 +119,12 @@ Developed a LINE chatbot with fuzzy search capabilities, serving ~200 clients in
 | 2019 – 2022 | **Software Engineer** | NCCC (National Credit Card Center of R.O.C.), Taipei |
 | 2018 – Present | **Freelance Software Developer** | Self-employed, Taoyuan |
 | 2013 – 2018 | **BSc Information Engineering** | Chung Hua University, Hsinchu |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lianhuang1221&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</p>
 
 ---
 
